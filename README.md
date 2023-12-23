@@ -14,3 +14,8 @@ As this is a static page and nothing needs to build, this can simply be viewed i
 4. Make changes and see them populate within the browser
 
 Credit for the template:
+
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
